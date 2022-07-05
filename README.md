@@ -3,3 +3,4 @@ This is an implementation of Unsupervised Learning. Here I have used K-Means Lea
 Given data has 200 Hypothetical data points of a mall in total.  
 Mall_Customers.csv file containes the data set and Figure1.png is the image of 6 clusters plotted on 3d graph, clusters are formed by Segmenting Age, Annual Income and Spending Scores of Customers.  
 Image of Clusters  
+![Screenshot] (https://github.com/harv-5/Customer-Segmentation-Using-K-Means/blob/main/Figure1.png)
