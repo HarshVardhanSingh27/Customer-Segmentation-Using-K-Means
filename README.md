@@ -9,4 +9,4 @@ Here I have used elkon algorithm in K-Means.
 To understand the data better I have plotted various graphs and used 2-Dimensional K-Means Clustering between Age & Spending Score and Annual Income & Spending Score, This helps us to better understand, not only the data but also the K-Means Clustering Technique.  
 #
 In this to plot 3d graph and to make it interactive I have used ``` %matplotlib widget ```
-which uses ipympl in backend which can simply be installed by ``` pip install ipympl ```
+which uses ipympl in backend ,that is easily installable by using ``` pip install ipympl ```.
